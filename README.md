@@ -1,1 +1,1 @@
-# snaptext-linux
+CutScreen for Linux
